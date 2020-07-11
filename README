@@ -1,0 +1,4 @@
+
+This project is a simulator of Poker Torunament. As an introduction, the game takes place in a room which has a number of tables which in turn, has a specified number of players for every table. Like an administrator, you can give to the players luck or bad luck, you can show the rank for every table, you can apply the turn function for play and can see the number of players' rounds.
+	As implementaion, I used circular generic linked list with sentinel to implement the list with players from every table.The room is implemented with simple linked lists with just an element and the list of tables is implemented with simple linked lists too.
+Looking over the comments in the code, you can better understand the functions
